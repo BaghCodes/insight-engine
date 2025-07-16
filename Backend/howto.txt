@@ -1,0 +1,2 @@
+cd C:\Users\KIIT\IdeaProjects\insight-engine\Backend
+uvicorn server:app --reload

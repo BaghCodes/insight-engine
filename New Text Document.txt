@@ -1,0 +1,32 @@
+# Node.js / MERN Stack
+node_modules/
+npm-debug.log
+.env
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Logs and Databases
+*.log
+
+# Miscellaneous
+temp/
+tmp/
+.cache/
+

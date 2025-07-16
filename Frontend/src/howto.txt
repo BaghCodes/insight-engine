@@ -1,0 +1,2 @@
+cd C:\Users\KIIT\IdeaProjects\insight-engine\frontend\src
+npm run dev
