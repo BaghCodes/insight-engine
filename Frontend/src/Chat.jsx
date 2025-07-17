@@ -53,7 +53,7 @@ const ChatInterface = () => {
     <div className="chat-page">
       {/* Header */}
       <div className="chat-header">
-        <h1 className="chat-title">GPT_الدجال</h1>
+        <h1 className="chat-title">Chat</h1>
         <div className="chat-filename">{filename}</div>
       </div>
 
